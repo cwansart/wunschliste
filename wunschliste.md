@@ -1,5 +1,0 @@
-# Wunschliste
-
-* Test
-* Test
-* Test
